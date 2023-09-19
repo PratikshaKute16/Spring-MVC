@@ -10,7 +10,7 @@ public class HomeController
     public String home()
     {
         System.out.println("hello this is home url");
-        return "hello";
-        //return "index";
+        //return "hello";
+        return "index";
     }
 }
